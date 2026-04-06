@@ -1,0 +1,216 @@
+{
+  "Alcoholic Hepatitis": {
+    "precautions": [
+      "Stop consuming alcohol",
+      "Follow a healthy diet",
+      "Take prescribed medications",
+      "Stay hydrated"
+    ],
+    "recommended_tests": [
+      "Liver Function Test (LFT)",
+      "Complete Blood Count (CBC)",
+      "Ultrasound of liver"
+    ]
+  },
+  "Bronchial Asthma": {
+    "precautions": [
+      "Avoid allergens like dust and pollen",
+      "Keep an inhaler handy",
+      "Practice breathing exercises",
+      "Avoid smoking"
+    ],
+    "recommended_tests": [
+      "Spirometry",
+      "Peak Flow Test",
+      "Allergy specific tests"
+    ]
+  },
+  "Chickenpox": {
+    "precautions": [
+      "Isolate from others",
+      "Apply calamine lotion to soothe itching",
+      "Drink plenty of fluids",
+      "Avoid scratching blisters"
+    ],
+    "recommended_tests": [
+      "Physical examination",
+      "Blood test for VZV antibodies"
+    ]
+  },
+  "Chronic Cholestasis": {
+    "precautions": [
+      "Eat a low-fat diet",
+      "Avoid alcohol",
+      "Take vitamin supplements",
+      "Stay hydrated"
+    ],
+    "recommended_tests": [
+      "Liver Function Test (LFT)",
+      "Blood test for alkaline phosphatase",
+      "Liver Biopsy"
+    ]
+  },
+  "Dengue": {
+    "precautions": [
+      "Drink plenty of fluids",
+      "Take complete rest",
+      "Use mosquito repellents",
+      "Take prescribed fever medication"
+    ],
+    "recommended_tests": [
+      "Complete Blood Count (CBC)",
+      "NS1 Antigen Test",
+      "Dengue Serology (IgM/IgG)"
+    ]
+  },
+  "Drug Reaction": {
+    "precautions": [
+      "Stop taking the suspected medication",
+      "Consult a doctor immediately",
+      "Take antihistamines if prescribed",
+      "Apply soothing skin lotions"
+    ],
+    "recommended_tests": [
+      "Skin Patch Test",
+      "Blood tests for allergies"
+    ]
+  },
+  "Fungal Infection": {
+    "precautions": [
+      "Keep the affected area clean and dry",
+      "Use prescribed antifungal creams",
+      "Wear loose, breathable clothing",
+      "Wash hands regularly"
+    ],
+    "recommended_tests": [
+      "Skin scraping examination",
+      "Fungal culture"
+    ]
+  },
+  "Hepatitis A": {
+    "precautions": [
+      "Maintain strict personal hygiene",
+      "Drink boiled or purified water",
+      "Eat well-cooked food",
+      "Take ample rest"
+    ],
+    "recommended_tests": [
+      "Hepatitis A Virus (HAV) IgM Antibody Test",
+      "Liver Function Test (LFT)"
+    ]
+  },
+  "Hepatitis B": {
+    "precautions": [
+      "Avoid sharing personal items like razors",
+      "Consult doctor for antiviral treatment",
+      "Avoid alcohol",
+      "Follow a balanced diet"
+    ],
+    "recommended_tests": [
+      "HBsAg Test",
+      "Liver Function Test (LFT)",
+      "HBV DNA Viral Load Test"
+    ]
+  },
+  "Hepatitis D": {
+    "precautions": [
+      "Continue Hepatitis B treatment",
+      "Take ample rest",
+      "Avoid alcohol completely",
+      "Maintain a healthy diet"
+    ],
+    "recommended_tests": [
+      "Anti-HDV Test",
+      "Liver Function Test (LFT)"
+    ]
+  },
+  "Hepatitis E": {
+    "precautions": [
+      "Drink boiled or purified water",
+      "Maintain good sanitation and hygiene",
+      "Avoid raw or undercooked foods",
+      "Take adequate rest"
+    ],
+    "recommended_tests": [
+      "HEV IgM Antibody Test",
+      "Liver Function Test (LFT)"
+    ]
+  },
+  "Jaundice": {
+    "precautions": [
+      "Drink plenty of water and clear fluids",
+      "Eat easily digestible foods like fruits",
+      "Avoid spicy and oily foods",
+      "Take adequate rest"
+    ],
+    "recommended_tests": [
+      "Bilirubin Test",
+      "Liver Function Test (LFT)",
+      "Urine Test"
+    ]
+  },
+  "Malaria": {
+    "precautions": [
+      "Take prescribed antimalarial drugs",
+      "Use mosquito nets and repellents",
+      "Stay hydrated",
+      "Monitor body temperature"
+    ],
+    "recommended_tests": [
+      "Peripheral Blood Smear",
+      "Rapid Diagnostic Test (RDT) for Malaria",
+      "Complete Blood Count (CBC)"
+    ]
+  },
+  "Pneumonia": {
+    "precautions": [
+      "Take prescribed antibiotics or antivirals",
+      "Get plenty of rest",
+      "Drink warm fluids",
+      "Use a humidifier"
+    ],
+    "recommended_tests": [
+      "Chest X-Ray",
+      "Sputum Test",
+      "Pulse Oximetry"
+    ]
+  },
+  "Psoriasis": {
+    "precautions": [
+      "Apply prescribed moisturizers and creams",
+      "Avoid skin injuries and stress",
+      "Limit alcohol consumption",
+      "Take short, warm baths"
+    ],
+    "recommended_tests": [
+      "Physical skin examination",
+      "Skin Biopsy (if required)"
+    ]
+  },
+  "Tuberculosis": {
+    "precautions": [
+      "Take the complete course of antibiotics",
+      "Cover mouth when coughing or sneezing",
+      "Keep home well-ventilated",
+      "Wear a mask around others"
+    ],
+    "recommended_tests": [
+      "Sputum Smear Microscopy",
+      "Chest X-Ray",
+      "Tuberculin Skin Test (Mantoux)"
+    ]
+  },
+  "Typhoid": {
+    "precautions": [
+      "Drink only boiled or bottled water",
+      "Eat properly cooked, hot food",
+      "Wash hands frequently",
+      "Take prescribed antibiotics"
+    ],
+    "recommended_tests": [
+      "Widal Test",
+      "Blood Culture",
+      "Stool or Urine Culture"
+    ]
+  }
+}

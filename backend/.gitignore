@@ -1,0 +1,119 @@
+# ===============================
+# 🔐 Environment & Secrets
+# ===============================
+.env
+.env.*
+*.env
+*.key
+*.pem
+secrets.json
+
+# Supabase / API Keys
+supabase/.temp
+supabase/.branches
+
+# ===============================
+# 🐍 Python (Backend / AI Model)
+# ===============================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.env/
+.venv/
+ENV/
+
+# Python build files
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Logs
+*.log
+
+# ===============================
+# 🤖 Machine Learning / Models
+# ===============================
+*.pt
+*.pth
+*.h5
+*.pkl
+*.joblib
+*.onnx
+models/
+checkpoints/
+outputs/
+
+# Dataset files
+data/
+datasets/
+*.csv
+*.tsv
+*.zip
+
+# ===============================
+# ⚡ FastAPI / Uvicorn
+# ===============================
+*.db
+*.sqlite3
+
+# ===============================
+# 📱 Flutter (Patient / Doctor / Admin Apps)
+# ===============================
+# Flutter build
+build/
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+
+# Generated files
+*.flutter-plugins
+*.flutter-plugins-dependencies
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# Android
+android/.gradle/
+android/app/build/
+
+# iOS
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+
+# ===============================
+# 💻 OS Files
+# ===============================
+.DS_Store
+Thumbs.db
+
+# ===============================
+# 🧪 Testing / Coverage
+# ===============================
+coverage/
+htmlcov/
+.pytest_cache/
+
+# ===============================
+# 📦 Node (if any frontend tools used)
+# ===============================
+node_modules/
+package-lock.json
+yarn.lock
+
+# ===============================
+# 📝 Misc
+# ===============================
+*.tmp
+*.bak
+*.swp
+
+.md
