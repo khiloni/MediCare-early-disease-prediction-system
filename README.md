@@ -168,7 +168,7 @@ flutter run
 ---
 
 ## AI Model Configuration
-We are loading a highly precise NLP HuggingFace Transformer model without the need for cloud inference limits. The `predictor.py` script automatically targets the `.safetensors` model stored locally at `<root>/model/`.
+We are loading a highly precise NLP HuggingFace Transformer model without the need for cloud inference limits. The `main.py` script automatically targets the `.safetensors` model stored locally at `<root>/model/`.
 
 If you do NOT have the model downloaded, or the predictor fails to locate `model.safetensors`, the system gracefully falls back into a mocked prediction loop to allow your UI flows to continue working without breaking during debugging.
 
